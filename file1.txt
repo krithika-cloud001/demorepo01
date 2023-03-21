@@ -1,0 +1,15 @@
+total 0
+drwx------. 4 krithika krithika 258 Mar 10 08:42 ..
+drwxrwxr-x. 7 krithika krithika 119 Mar 10 08:44 .git
+-rw-rw-r--. 1 krithika krithika   0 Mar 21 11:43 uptime
+drwxrwxr-x. 3 krithika krithika  49 Mar 21 11:43 .
+-rw-rw-r--. 1 krithika krithika   0 Mar 21 11:48 file1.txt
+ 11:49:08 up 34 min,  1 user,  load average: 0.00, 0.02, 0.02
+NAME            MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda               8:0    0    8G  0 disk 
+├─sda1            8:1    0    1G  0 part /boot
+└─sda2            8:2    0    7G  0 part 
+  ├─centos-root 253:0    0  6.2G  0 lvm  /
+  └─centos-swap 253:1    0  820M  0 lvm  [SWAP]
+sr0              11:0    1 1024M  0 rom  
+sr1              11:1    1  973M  0 rom  
